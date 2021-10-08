@@ -1,0 +1,34 @@
+load test_images/test.jpg test1
+load test_images/test.jpg test2
+load test_images/test.jpg test3
+load test_images/test.jpg test4
+load test_images/test.jpg test5
+load test_images/test.jpg test6
+load test_images/test.jpg test7
+load test_images/test.jpg test8
+load test_images/test.jpg test9
+load test_images/test.jpg test10
+
+blur test1
+blur test2
+blur test3
+blur test4
+blur test5
+blur test6
+blur test7
+blur test8
+blur test9
+blur test10
+
+save test1 test_images/test_blur1.jpg
+save test2 test_images/test_blur2.jpg
+save test3 test_images/test_blur3.jpg
+save test4 test_images/test_blur4.jpg
+save test5 test_images/test_blur5.jpg
+save test6 test_images/test_blur6.jpg
+save test7 test_images/test_blur7.jpg
+save test8 test_images/test_blur8.jpg
+save test9 test_images/test_blur9.jpg
+save test10 test_images/test_blur10.jpg
+
+exit

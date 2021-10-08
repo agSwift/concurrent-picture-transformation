@@ -1,0 +1,3 @@
+flip V test
+save test test_images/test_flip_V.jpg
+exit

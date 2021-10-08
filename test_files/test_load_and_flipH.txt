@@ -1,0 +1,4 @@
+load test_images/test.jpg test
+flip H test
+save test test_images/test_flip_H.jpg
+exit

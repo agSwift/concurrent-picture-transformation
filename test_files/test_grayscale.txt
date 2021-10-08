@@ -1,0 +1,3 @@
+grayscale test
+save test test_images/test_grayscale.jpg
+exit

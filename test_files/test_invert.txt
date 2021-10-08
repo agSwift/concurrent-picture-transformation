@@ -1,0 +1,3 @@
+invert test
+save test test_images/test_inverted.jpg
+exit

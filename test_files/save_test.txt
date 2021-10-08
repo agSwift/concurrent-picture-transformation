@@ -1,0 +1,2 @@
+save some_ducks test_images/a_random_test_name.jpg
+exit

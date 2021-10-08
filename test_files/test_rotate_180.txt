@@ -1,0 +1,3 @@
+rotate 180 test
+save test test_images/test_rotate_180.jpg
+exit

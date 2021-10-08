@@ -1,0 +1,3 @@
+load test_images/test.jpg funny_name
+liststore
+exit

@@ -1,0 +1,34 @@
+load test_images/test.jpg test
+load test_images/test.jpg junk1
+load test_images/test.jpg junk2
+load test_images/test.jpg junk3
+load test_images/test.jpg junk4
+load test_images/test.jpg junk5
+load test_images/test.jpg junk6
+load test_images/test.jpg junk7
+load test_images/test.jpg junk8
+load test_images/test.jpg junk9
+
+blur test
+blur test
+blur test
+blur test
+blur test
+blur test
+blur test
+blur test
+blur test
+blur test
+
+save test test_images/junk1.jpg
+save test test_images/junk2.jpg
+save test test_images/junk3.jpg
+save test test_images/junk4.jpg
+save test test_images/junk5.jpg
+save test test_images/junk6.jpg
+save test test_images/junk7.jpg
+save test test_images/junk8.jpg
+save test test_images/junk9.jpg
+save test test_images/test_10_blurs.jpg
+
+exit

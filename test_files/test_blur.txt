@@ -1,0 +1,3 @@
+blur test
+save test test_images/test_blur.jpg
+exit

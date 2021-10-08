@@ -1,0 +1,4 @@
+load test_images/test.jpg test
+rotate 90 test
+save test test_images/test_rotate_90.jpg
+exit
